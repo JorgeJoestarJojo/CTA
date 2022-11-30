@@ -1,0 +1,10 @@
+.example-card {
+    max-width: 100%;
+    margin: 4%;
+  }
+  .example-header-image {
+    background-image: url(Profile.jpg);
+    background-size: cover;
+    
+  }  
+  

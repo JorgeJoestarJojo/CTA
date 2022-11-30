@@ -1,0 +1,14 @@
+main
+{
+  width: 80%;
+  margin: 1rem auto;
+}
+a{
+  background-image: url(logo.png);
+  background-size: cover;
+}
+img{
+  text-align: left;
+  width: 95%;
+  height: 50%;
+}

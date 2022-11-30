@@ -1,0 +1,19 @@
+.example-card {
+    max-width: 50%;
+    margin: 4%;
+  }
+  .example-card2 {
+    max-width: 50%;
+    margin: 4%;
+  }
+  .example-header-image {
+    background-image: url(food.jpg);
+    background-size: cover;
+    
+  }  
+  
+  .example-header-image2 {
+    background-image: url(JOJO.jpg);
+    background-size: cover;
+    
+  }  
